@@ -1,2 +1,2 @@
-# Chess-s-project
+# Chess-py
 None
